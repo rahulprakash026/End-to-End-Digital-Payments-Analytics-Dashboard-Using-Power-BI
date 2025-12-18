@@ -96,5 +96,3 @@ B.Tech CSE | Data Analytics & Business Intelligence
 Power BI | SQL | Python | Machine Learning  
 
 ---
-
-⭐ *If you like this project, feel free to star the repository!*  
